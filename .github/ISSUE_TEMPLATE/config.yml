@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 问题反馈
+    url: https://github.com/laoapiao/sslbz/issues
+    about: 功能讨论、使用心得和一般性问题请移步 Issues
+  - name: 📖 文档
+    url: https://github.com/laoapiao/sslbz/blob/main/docs/getting-started.md
+    about: 快速上手指南和常见问题
